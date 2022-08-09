@@ -2,7 +2,7 @@
 A website to learn about the gruesome deaths of catholic saints.
 
 
-Link to project: https://lizkil-dead-saints.herokuapp.com/
+Link to project https://lizkil-dead-saints.herokuapp.com/
 
 ### Tech used
 HTML, CSS, JavaScript, Node, Express
